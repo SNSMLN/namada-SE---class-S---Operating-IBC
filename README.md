@@ -1,6 +1,6 @@
 # namada-SE---class-S---Operating-IBC
 
-I created two IBC channels. The channels work properly in both directions, the Hermes service is constantly running.
+I created two IBC channels. The channels work properly in both directions, the Hermes service is constantly running. These channels are public. They are published on my website https://namada.snsmln.xyz/. They are also available on the website https://services.liveraven.net/cosmos-testnets/namada/ibc-channels
 
 I could create channels to all the networks that are specified in the task. But I don't have that many NAAN tokens.
 
